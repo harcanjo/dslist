@@ -29,8 +29,22 @@
 
 ## Dia 3 - Revisão
 
+	- Conceitos
+		- Perfis de projeto
+		- Ambiente local com Docker Compose
+		- Processo de homologação local
+		- Processo de deploy com CI/CD
+		- Configuração de CORS
 
 ---
+
+## Dia 4 - Revisão
+
+	- Conceitos
+		- Enviar requisições do tipo POST
+		- Alterar ordenação dos itens no banco através de requisições
+		
+--- 
 
 ## README.md original
 
